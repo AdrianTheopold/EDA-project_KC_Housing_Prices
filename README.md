@@ -1,4 +1,4 @@
-# First Project - Data Analysis
+# Exploratory Data Analysis Project - Housing Prices
 
 This project is centered around exploratory data 
 analysis [(EDA)](EDA_Checklist.pdf) techniques and statistical analysis, 
